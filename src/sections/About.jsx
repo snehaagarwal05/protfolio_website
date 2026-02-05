@@ -48,21 +48,21 @@ export const About = () => {
             </h2>
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
-              <p>I’m a Full Stack Developer and Software Engineer passionate about building reliable, high-performance applications that deliver real value to users. I enjoy working across the entire stack — from designing intuitive frontend interfaces to engineering robust backend systems and APIs.
+              <p>I’m a Computer Science & Engineering student with hands-on experience in full-stack web development. I enjoy building complete, real-world applications — from clean frontend interfaces to scalable backend systems.
               </p>
               <p>
-                With experience in modern web technologies, I build end-to-end solutions using React, Next.js, TypeScript, and scalable backend architectures. My approach blends clean code principles with thoughtful system design, ensuring applications are not only functional, but maintainable and future-ready.
+                I’ve worked on multiple projects involving frontend development, backend logic, database design, and API integration. I’m comfortable working with React, JavaScript, Node.js, Express, and databases, and I focus on writing clean, readable, and efficient code.
               </p>
               <p>
-                I’ve worked on projects that involve frontend engineering, backend logic, database design, and system integration, giving me a strong understanding of how software behaves as a whole. I focus on writing efficient code, optimizing performance, and designing systems that scale gracefully as requirements grow.
+                Along with development, I have a strong understanding of core CSE subjects including Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks. This helps me design better systems and understand how applications work under the hood.
 
               </p>
-              <p>As a software engineer, I value problem-solving, code quality, and continuous learning. I actively explore new tools, improve existing systems, and apply best practices in architecture, security, and performance.</p>
+              <p>I’m passionate about problem-solving, learning new technologies, and improving my skills through practical projects. I aim to build applications that are reliable, maintainable, and scalable as requirements grow.</p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to engineer digital products that are elegant on the surface, powerful underneath, and built to last."
+                "Strong fundamentals, practical experience, and a mindset to keep improving
               </p>
             </div>
           </div>
