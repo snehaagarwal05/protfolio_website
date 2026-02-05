@@ -2,7 +2,7 @@ import { Github, Linkedin, Twitter, Heart } from "lucide-react";
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/snehaagarwal05", label: "GitHub" },
-  { icon: Linkedin, href: "sneha-agarwal-32b980279", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/sneha-agarwal-32b980279", label: "LinkedIn" },
 ];
 
 const footerLinks = [
@@ -54,3 +54,4 @@ export const Footer = () => {
     </footer>
   );
 };
+
